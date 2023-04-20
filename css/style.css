@@ -5,12 +5,43 @@ body {
 .header {
     background-color: lightblue;
     color: white;
-    width: 220px;
+    width: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .odin-pic {
     height: auto;
     width: 320px;
-    align-items: center;
+}
+
+.Recipe-Button {
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+.Return-Homepage {
+    background-color: lightblue;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-weight: 50px;
+}
+
+.long-text {
+    background-color: #e6ffff;
+    width: 500px;
+    height: 190px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.description {
+    height: 170px;
+}
+
+.steps {
+    height: 220px;
 }
