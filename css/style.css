@@ -1,0 +1,16 @@
+body {
+    background-color: #ffcce6;
+}
+
+.header {
+    background-color: lightblue;
+    color: white;
+    width: 220px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.odin-pic {
+    height: auto;
+    width: 320px;
+    align-items: center;
+}
